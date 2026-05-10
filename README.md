@@ -7,7 +7,7 @@
 
 [![Status](https://img.shields.io/badge/Status-In_Progress-f97316?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 [![Category](https://img.shields.io/badge/Category-Experimental_Labs-black?style=for-the-badge&logo=micro-soft-academic&logoColor=white)](#)
-[![Build](https://img.shields.io/badge/Build-v1.0.4--F339-gray?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Build](https://img.shields.io/badge/Build-v1.0.4--255E-gray?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
 </div>
 
@@ -15,13 +15,15 @@
 
 ## 🛰️ DEPLOYMENT_TRACE
 ```text
-    __  ___  __   __  ___  _____ 
-   /  |/  / / /  /  |/  / / ___/ 
-  / /|_/ / / /  / /|_/ / /___ \  
- / /  / / / /__/ /  / / ____/ /  
-/_/  /_/ /____/_/  /_/ /_____/   [ORANGE_CORE]
+    _______  _        _______  _______  _______ 
+   (  ____ \( \      (       )(  ___  )(  ____    | (    \/| (      | () () || (   ) || (    \/
+   | (__    | |      | || || || (___) || (_____ 
+   |  __)   | |      | |(_)| ||  ___  |(_____  )
+   | (      | |      | |   | || (   ) |      ) |
+   | (____/\| (____/\| )   ( || )   ( |/\____) |
+   (_______/(_______/|/     \||/     \|\_______) [ORANGE_CORE]
                                  
-> Initializing sequence... F339A39D1B097759
+> Initializing sequence... 255EB5C2B80666F2
 > Environment: PRODUCTION_SHADOW
 > Security Protocol: ZERO_TRUST
 > Status: IN PROGRESS
@@ -59,19 +61,19 @@ Un prototype d'outil d'orchestration permettant de modéliser des pipelines de d
 ## 🏗️ SYSTEM_MODULES
 
 ### 🧪 Éditeur visuel de graphes orientés acycliques (DAG)
-> *Séquence d'intégration F339A3 active.*
+> *Séquence d'intégration 255EB5 active.*
 Implémentation d'une logique métier propriétaire pour la gestion de éditeur visuel de graphes orientés acycliques (dag), optimisée pour les environnements distribués.
 
 ### 🧪 Définition de logique de retry à état persistant
-> *Séquence d'intégration F339A3 active.*
+> *Séquence d'intégration 255EB5 active.*
 Implémentation d'une logique métier propriétaire pour la gestion de définition de logique de retry à état persistant, optimisée pour les environnements distribués.
 
 ### 🧪 Persistence de contexte inter-nœuds via Redis
-> *Séquence d'intégration F339A3 active.*
+> *Séquence d'intégration 255EB5 active.*
 Implémentation d'une logique métier propriétaire pour la gestion de persistence de contexte inter-nœuds via redis, optimisée pour les environnements distribués.
 
 ### 🧪 Télémétrie de passage de données via gRPC
-> *Séquence d'intégration F339A3 active.*
+> *Séquence d'intégration 255EB5 active.*
 Implémentation d'une logique métier propriétaire pour la gestion de télémétrie de passage de données via grpc, optimisée pour les environnements distribués.
 
 
@@ -105,5 +107,5 @@ Implémentation d'une logique métier propriétaire pour la gestion de télémé
   <img src="https://capsule-render.vercel.app/render?type=rect&color=f97316&height=2&section=footer&fontSize=10&text=" width="100%" />
   <br/>
   <sub><b>ELMAS CORE LABORATORY</b> // <i>Proprietary Technology</i></sub><br/>
-  <sub>SYSTEM_STATUS: IN PROGRESS // AUTH_CODE: F339A39D1B097759</sub>
+  <sub>SYSTEM_STATUS: IN PROGRESS // AUTH_CODE: 255EB5C2B80666F2</sub>
 </div>
